@@ -5,9 +5,11 @@
 
 
 
-## <div align="center">👋 Hi, I'm Muhammad Putra Age <br /> A Frontend Engineer 💻 crafting modern, responsive, and user-friendly web 🌐 and mobile 📱 applications.</div> 
+### <div align="center" style="font-size: 42px">👋 Hi, I'm Muhammad Putra Age</div>
 
-  <br />
+## <div align="center">A Frontend Engineer 💻 crafting modern, responsive, and user-friendly web 🌐 and mobile 📱 applications.</div>
+
+<br />
 
 - 🔭 I’m currently working on [PrepWise - AI Interview Platform](https://prepwise.muhammadputraage.com)  
   
