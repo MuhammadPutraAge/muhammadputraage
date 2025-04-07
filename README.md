@@ -5,9 +5,9 @@
 
 
 
-### 👋 Hi, I'm Muhammad Putra Age  
-### <div align="center"> A Frontend Engineer 💻 crafting modern, responsive, and user-friendly web 🌐 and mobile 📱 applications.</div>  
-  
+## <div align="center">👋 Hi, I'm Muhammad Putra Age <br /> A Frontend Engineer 💻 crafting modern, responsive, and user-friendly web 🌐 and mobile 📱 applications.</div> 
+
+  <br />
 
 - 🔭 I’m currently working on [PrepWise - AI Interview Platform](https://prepwise.muhammadputraage.com)  
   
@@ -33,7 +33,7 @@
 
 
 ### Frontend  
-<div align="center" style="background-color: '#ffffff">  
+<div align="center">  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
