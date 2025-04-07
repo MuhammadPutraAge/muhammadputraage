@@ -4,7 +4,7 @@
 
 <br />
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 👋 Hi, I'm Muhammad Putra Age — a passionate Frontend Engineer 🚀 who loves building modern, responsive 🌐 and user-friendly 💡 web and mobile apps 📱. I focus on clean code 🧼, sleek UI 🎨, and smooth UX 🔄. Always learning, always building 🛠️.
 
 - 🔭 I’m currently working on [PrepWise - AI Interview Platform](https://prepwise.muhammadputraage.com)  
@@ -25,7 +25,7 @@
 <br/>  
 
 
-## 🚀 My Skill Set  
+# 🚀 My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
